@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Ahorcado/ViewController.swift"
+            timestampString = "508100746.351576"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "58"
+            endingLineNumber = "58"
+            landmarkName = "comprobar(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Ahorcado/ViewController.swift"
+            timestampString = "508101544.176571"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Ahorcado.ViewController.peliculas.getter : Swift.Array&lt;Swift.String&gt;"
+                  moduleName = "Ahorcado"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dam/Downloads/SheilaRos-hangedios-b5be9bd0d565/Ahorcado/ViewController.swift"
+                  timestampString = "508101544.707788"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "35">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Ahorcado.ViewController.peliculas.setter : Swift.Array&lt;Swift.String&gt;"
+                  moduleName = "Ahorcado"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dam/Downloads/SheilaRos-hangedios-b5be9bd0d565/Ahorcado/ViewController.swift"
+                  timestampString = "508101544.70914"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "65">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Ahorcado.ViewController.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; Ahorcado.ViewController"
+                  moduleName = "Ahorcado"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dam/Downloads/SheilaRos-hangedios-b5be9bd0d565/Ahorcado/ViewController.swift"
+                  timestampString = "508101544.710435"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "276">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Ahorcado.ViewController.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;Ahorcado.ViewController&gt;"
+                  moduleName = "Ahorcado"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dam/Downloads/SheilaRos-hangedios-b5be9bd0d565/Ahorcado/ViewController.swift"
+                  timestampString = "508101544.711662"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "185">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
