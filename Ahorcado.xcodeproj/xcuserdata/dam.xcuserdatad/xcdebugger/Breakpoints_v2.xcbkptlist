@@ -10,27 +10,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Ahorcado/ViewController.swift"
-            timestampString = "508100746.351576"
+            timestampString = "508186342.139328"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "58"
-            endingLineNumber = "58"
-            landmarkName = "comprobar(_:)"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "Ahorcado/ViewController.swift"
-            timestampString = "508101544.176571"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "17"
-            endingLineNumber = "17"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
             landmarkName = "ViewController"
             landmarkType = "3">
             <Locations>
@@ -93,6 +77,69 @@
                   startingLineNumber = "17"
                   endingLineNumber = "17"
                   offsetFromSymbolStart = "185">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Ahorcado/SecondViewController.swift"
+            timestampString = "508179789.618922"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "SecondViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Ahorcado.SecondViewController.imagen.setter : __ObjC.UIImage"
+                  moduleName = "Ahorcado"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dam/Downloads/SheilaRos-IOs-Ahorcado/Ahorcado/SecondViewController.swift"
+                  timestampString = "508180203.234122"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "65">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Ahorcado.SecondViewController.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; Ahorcado.SecondViewController"
+                  moduleName = "Ahorcado"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dam/Downloads/SheilaRos-IOs-Ahorcado/Ahorcado/SecondViewController.swift"
+                  timestampString = "508180203.235493"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "202">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Ahorcado.SecondViewController.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;Ahorcado.SecondViewController&gt;"
+                  moduleName = "Ahorcado"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dam/Downloads/SheilaRos-IOs-Ahorcado/Ahorcado/SecondViewController.swift"
+                  timestampString = "508180203.236891"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "126">
                </Location>
             </Locations>
          </BreakpointContent>
