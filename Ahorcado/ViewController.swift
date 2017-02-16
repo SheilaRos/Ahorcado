@@ -7,7 +7,7 @@
 //
 
 import UIKit
-//creo una variable num para guardar el indice de la palabra anterior y que no se repita seguido
+//creo una variable num para guardar el indice de la palabra anterior y que no se repita seguido 
 var num = -1
 class ViewController: UIViewController, UITextFieldDelegate {
     //Iboutlets necesarios
